@@ -53,8 +53,8 @@ EQUIPEMENT_COL = "Équipement"
 COMMENT_COL = "Commentaire"
 ZONE_GLOBALE_COL = "Zone geo glob"
 ZONE_COL = "Zone geo"
-TECH_DEFECT_COL = "Technique"
-OPE_DEFECT_COL = "Opérationnel"
+TECH_DEFECT_COL = "Technique - prédit"
+OPE_DEFECT_COL = "Operationnel - prédit"
 
 # Style
 BG = "#F3F4F6"
